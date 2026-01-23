@@ -27,11 +27,7 @@ The system uses the HSV color space for robust color detection under varying lig
 🛠️ Technologies Used
 
 Python
-
 OpenCV
-
 NumPy
-
 winsound (Windows audio alerts)
-
 Collections (deque)
