@@ -1,4 +1,5 @@
 🔴🟢🔵 Multi-Color Object Tracking with Sound Alerts
+
 This project implements real-time multi-color object detection and tracking using OpenCV. It detects Red, Green, and Blue objects from a live webcam feed, tracks their movement, draws trajectories, and triggers color-specific sound alerts upon detection. The processed video is also recorded and replayed automatically.
 
 📌 Project Overview
